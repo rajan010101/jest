@@ -44,6 +44,13 @@
 
 ## Getting Started
 
+
+- This is added changes
+- Another change
+- random change
+- bug fix
+- optimizations
+
 <!-- copied from Getting Started docs, links updated to point to Jest website -->
 
 Install Jest using [`yarn`](https://yarnpkg.com/en/package/jest):
